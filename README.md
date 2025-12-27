@@ -28,7 +28,7 @@ System.out.println("boolean:"+bool);
 
 ```
 # output
-![output of primitive](primitive.png)
+![output of primitive](Primitive.png)
 # 1b
 ## title : Quadratic 
 ```java
